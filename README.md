@@ -1,4 +1,4 @@
-### Hello! I'm Jensen.
+## Hello! I'm Jensen.
 
 I'm an incoming planetary science Ph.D. student in the [Department of Earth, Atmospheric and Planetary Sciences](https://eapsweb.mit.edu/) at MIT. I'll be joining [Prof. Richard Teague](https://richteague.github.io/)'s group, where my main research focus will be planet formation and evolution. Additionally, I'm interested in planetary climate systems, planetary habitability, and exoplanet characterization. I also hope to use my time at EAPS to learn more about Earth's climate and how to combat the climate crisis.
 
