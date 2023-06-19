@@ -1,4 +1,4 @@
-![photo of the Olympic Mountains as seen from British Columbia, taken by me](olympic.jpg)
+![photo of the Olympic Mountains as seen from British Columbia, taken by me](banner.jpg)
 
 ## Hello :wave: I'm Jensen.
 
