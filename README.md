@@ -15,4 +15,4 @@ Much of my research has a significant programming component, and I also pursue s
 - LinkedIn: [jensen-lawrence](https://linkedin.com/in/jensen-lawrence)
 - ORCid: [0009-0007-5371-3548](https://orcid.org/0009-0007-5371-3548)
 
-You can learn more about me on my [website](jensenlawrence.github.io).
+You can learn more about me on my [website](https://jensenlawrence.github.io).
