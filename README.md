@@ -2,12 +2,12 @@
 
 ## Hello! I'm Jensen.
 
-I'm an incoming planetary science PhD student in the [Department of Earth, Atmospheric and Planetary Sciences](https://eapsweb.mit.edu/) at MIT. I'll be joining [Prof. Richard Teague](https://richteague.github.io/)'s group, where my main research focus will be planet formation and evolution. Additionally, I'm interested in planetary climate systems, planetary habitability, and exoplanet detection and characterization. I also hope to use my time at EAPS to learn more about Earth's climate and how to combat the climate crisis.
+I'm a planetary science PhD student in the [Department of Earth, Atmospheric and Planetary Sciences](https://eapsweb.mit.edu/) at MIT. I work in [Prof. Richard Teague](https://richteague.github.io/)'s group, where my main research focus is planet formation and evolution. Additionally, I'm interested in planetary climate systems, planetary habitability, and exoplanet detection and characterization. I also hope to use my time at EAPS to learn more about Earth's climate and how to combat the climate crisis.
 
 I firmly believe that science should be more open source and accessible, so I try to properly document all of my research-related codes and make them publicly available here on my GitHub. As well, I occasionally pursue side projects (coding is one of my favourite skills that I learned in undergrad), and I upload my project codes here too. Feel free to browse my repos and check out my work!
 
 #### Education
-- Starting 2023 | PhD in Planetary Science, Massachusetts Institute of Technology
+- 2023 - Present | PhD in Planetary Science, Massachusetts Institute of Technology
 - 2018 - 2023 | BSc in Honours Mathematical Physics, University of Waterloo
 
 #### Connect
